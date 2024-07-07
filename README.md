@@ -35,4 +35,4 @@ https://github.com/perpendicularai/ShoppingAssistant/assets/146530480/8bc29442-0
 Results may vary depending on the store selected.
 
 ## 💝 Sponsorships
-- If you would like to see this project grow and be able to provide better search functionality, feel free to get in touch via email [Fahd @ Perpendicular AI](fahd@perpendicular.web.za)
+- If you would like to see this project grow and be able to provide better search functionality, feel free to get in touch via email [Fahd @ Perpendicular AI] - fahd@perpendicular.web.za
