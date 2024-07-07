@@ -1,6 +1,11 @@
 # 🛍️ ShoppingAssistant
 A shopping assistant powered by LlamaCpp
 
+## 🏪 Stores
+- Checkers
+- PNP
+- Woolworths
+
 ## 🧃 Project Motivation
 
 Looking for the price of an item can be a tedious task. Often has it been that I need to find the price of a grocery item. 
@@ -21,3 +26,10 @@ Having to look on my mobile device proved to be somewhat laborious. I then resor
 
 https://github.com/perpendicularai/ShoppingAssistant/assets/146530480/8bc29442-08a1-4298-89c2-cd06208e86b5
 
+## 🧯 PLEASE NOTE:
+Results may vary depending on the store selected.
+
+## 🕶️ Project Vision
+- To improve on the search functionality by using a paid for service and provided it for free in the app.
+- More store coverage
+- To search for more than groceries. ie: clothing, equipment, vehicles, accommodation, flight times and prices and many more.
