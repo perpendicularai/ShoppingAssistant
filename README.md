@@ -3,7 +3,7 @@ A shopping assistant powered by LlamaCpp
 
 ## 🏪 Stores
 - [Checkers](https://www.checkers.co.za)
-- [PNP](https://pnp.co.za)
+- [PNP](https://www.pnp.co.za/)
 - [Woolworths](https://woolworths.co.za)
 
 ## 🧃 Project Motivation
