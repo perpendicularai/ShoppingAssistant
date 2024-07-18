@@ -22,7 +22,7 @@ Having to look on my mobile device proved to be somewhat laborious. I then resor
 - Ensure that you have the necessary requirements `pip install -r requirements.txt`
 - Once completed can you run the program like so : `python shopassist.py`. See video demo below:
 
-## 🎥 Short-films (PLEASE NOTE: Video contains sound)
+## 🎥 Short-films (PLEASE NOTE: Video contains audio)
 
 https://github.com/perpendicularai/ShoppingAssistant/assets/146530480/8bc29442-08a1-4298-89c2-cd06208e86b5
 
