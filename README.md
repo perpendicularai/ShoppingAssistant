@@ -22,7 +22,7 @@ Having to look on my mobile device proved to be somewhat laborious. I then resor
 - Ensure that you have the necessary requirements `pip install -r requirements.txt`
 - Once completed can you run the program like so : `python shopassist.py`. See video demo below:
 
-## 🎥 Short-films (PLEASE NOTE: Video contains audio)
+## 🎥 Short-films
 
 https://github.com/perpendicularai/ShoppingAssistant/assets/146530480/8bc29442-08a1-4298-89c2-cd06208e86b5
 
@@ -32,7 +32,8 @@ https://github.com/perpendicularai/ShoppingAssistant/assets/146530480/8bc29442-0
 - To search for more than groceries. ie: clothing, equipment, vehicles, accommodation, flight times and prices and many more.
 
 ## 🧯 PLEASE NOTE:
-Results may vary depending on the store selected.
+- Results may vary depending on the store selected.
+- Video contains audio
 
 ## 💝 Sponsorships
 - If you would like to see this project grow and be able to provide better search functionality, feel free to get in touch via email [Fahd @ Perpendicular AI] - fahd@perpendicular.web.za
