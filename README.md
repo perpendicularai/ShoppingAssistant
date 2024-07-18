@@ -1,4 +1,4 @@
-# 🛍️ ShoppingAssistant
+# 🛍️ ShoppingAssistant :octocat:
 A shopping assistant powered by LlamaCpp
 
 ## 🏪 Stores
