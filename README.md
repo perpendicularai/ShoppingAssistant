@@ -2,7 +2,7 @@
 A shopping assistant powered by LlamaCpp
 
 ## 🏪 Stores
-- [Checkers](https://checkers.co.za)
+- [Checkers](https://www.checkers.co.za)
 - [PNP](https://pnp.co.za)
 - [Woolworths](https://woolworths.co.za)
 
