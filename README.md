@@ -2,9 +2,9 @@
 A shopping assistant powered by LlamaCpp
 
 ## 🏪 Stores
-- [Checkers](checkers.co.za)
-- [PNP](pnp.co.za)
-- [Woolworths](woolworths.co.za)
+- [Checkers](https://checkers.co.za)
+- [PNP](https://pnp.co.za)
+- [Woolworths](https://woolworths.co.za)
 
 ## 🧃 Project Motivation
 
