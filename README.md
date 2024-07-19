@@ -11,7 +11,7 @@ A shopping assistant powered by LlamaCpp
 Looking for the price of an item can be a tedious task. Often has it been that I need to find the price of a grocery item. 
 Having to look on my mobile device proved to be somewhat laborious. I then resorted to putting together this project which aims to alleviate the chore of looking for grocery prices.
 
-## 🔧 Dependencies
+## 📦 Dependencies
 - duckduckgo-search
 - llama_cpp_python
 - pyttsx3
