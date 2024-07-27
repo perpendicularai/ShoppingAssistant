@@ -1,0 +1,3 @@
+[submodule "SeKernel_for_LLM"]
+	path = SeKernel_for_LLM
+	url = ./SeKernel_for_LLM
