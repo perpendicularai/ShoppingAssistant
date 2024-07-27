@@ -2,7 +2,7 @@
 A shopping assistant powered by LlamaCpp
 
 ## 🏪 Stores
-- Please note, Shopping Assistant now supports searching all stores that are on the internet.
+- Please note, Shopping Assistant now supports searching not only store prices but any information that is on the internet.
 
 
 ## 🧃 Project Motivation
