@@ -2,9 +2,8 @@
 A shopping assistant powered by LlamaCpp
 
 ## 🏪 Stores
-- [Checkers](https://www.checkers.co.za)
-- [PNP](https://www.pnp.co.za/)
-- [Woolworths](https://woolworths.co.za)
+- Please note, Shopping Assistant now supports searching all stores that are on the internet.
+
 
 ## 🧃 Project Motivation
 
@@ -12,7 +11,8 @@ Looking for the price of an item can be a tedious task. Often has it been that I
 Having to look on my mobile device proved to be somewhat laborious. I then resorted to putting together this project which aims to alleviate the chore of looking for grocery prices.
 
 ## 📦 Dependencies
-- duckduckgo-search
+- bs4
+- nltk
 - llama_cpp_python
 - pyttsx3
 
