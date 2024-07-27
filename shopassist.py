@@ -1,5 +1,5 @@
-from SeKernel_for_LLM import kernel
-from SeKernel_for_LLM import plugins
+import kernel
+import plugins
 from llama_cpp import Llama
 from pprint import pp
 import pyttsx3
