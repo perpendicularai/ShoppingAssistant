@@ -1,3 +1,4 @@
-duckduckgo-search
+bs4
+nltk
 llama_cpp_python
 pyttsx3
