@@ -18,7 +18,7 @@ Having to look on my mobile device proved to be somewhat laborious. I then resor
 
 ## ⚙️ How to
 - Download your favorite GGUF formated language from 🤗 [Huggingface](https://huggingface.co/models?pipeline_tag=text-generation&sort=trending&search=gguf)
-- Add the path to it in the script
+- Add the path to it in the `kernel.py` script
 - Ensure that you have the necessary requirements `pip install -r requirements.txt`
 - Once completed can you run the program like so : `python shopassist.py`. See video demo below:
 
