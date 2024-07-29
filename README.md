@@ -28,5 +28,4 @@ https://github.com/perpendicularai/ShoppingAssistant/assets/146530480/8bc29442-0
 
 
 ## 🧯 PLEASE NOTE:
-- Results may vary depending on the store selected.
 - Video contains audio
