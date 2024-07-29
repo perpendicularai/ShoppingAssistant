@@ -40,7 +40,7 @@ elif question != "exit":
          response = {"role":"assistant", "content":""}
          response['content'] += output['choices'][0]['message']['content']
          
-         # Chat template bundled with the shopping template. See SeKernel_for_LLM directory for more.
+         # Chat template bundled with the shopping plugin. See SeKernel_for_LLM directory for more.
          data2 = kernel.chatTemplate(
               prompt=question,
               plugin=plugins.shopPlugin(),
