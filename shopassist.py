@@ -28,7 +28,7 @@ if question == "exit":
       sys.exit()
 elif question != "exit":
     try:
-         # Internet-search plugin bundled with the shopping template. See SeKernel_for_LLM directory for more.
+         # Shopping template bundled with the internet-search plugin. See SeKernel_for_LLM directory for more.
          search_prompt = plugins.searchPlugin(output=question)
          data = kernel.shopTemplate(prompt=question, plugin=plugins.shopPlugin(), context=search_prompt)
          
