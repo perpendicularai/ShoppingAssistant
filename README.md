@@ -1,5 +1,5 @@
 # PLEASE NOTE :
-This repo has been archived and development on this project has been discontinued. To continue using the Shopping Assistant, please refer to the [SeKernel_UI]((https://github.com/perpendicularai/SeKernel_for_LLM_UI).
+This repo has been archived and development on this project has been discontinued. To continue using the Shopping Assistant, please refer to the [SeKernel_UI](https://github.com/perpendicularai/SeKernel_for_LLM_UI).
 
 # 🛍️ ShoppingAssistant :octocat:
 A shopping assistant powered by LlamaCpp
