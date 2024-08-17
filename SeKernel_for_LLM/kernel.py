@@ -25,5 +25,5 @@ def chatTemplate(prompt:str, plugin):
 
 # Model function that returns the model as a string
 def model():
-     model = Model("<PATH TO GGUF MODEL>")
+     model = Model("C:\\Users\\RackUnit-1\\Models\\MetaAI\\meta-llama-3.1-8b-instruct-q4_k_m.gguf")
      return model
