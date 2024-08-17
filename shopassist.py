@@ -21,11 +21,11 @@ while True:
     # Speech-engine call for app intro
     voices = engine.getProperty('voices')
     engine.setProperty('voice', voices[1].id) # setProperty method
-    engine.say("Please provide a topic to shop or search for. It can be anything that is advertised online. Or type exit to quit.")
+    engine.say("Please enter your prompt. It can be anything that is advertised online. Or type exit to quit.")
     engine.runAndWait()
     engine.stop()
     # Input for topic
-    question = input("Please provide a shopping topic or type (exit) to quit: ")
+    question = input("Please enter your prompt or type (exit) to quit: ")
     if question == "exit":
           sys.exit()
     elif question != "exit":
@@ -49,7 +49,7 @@ while True:
                 context=response
                 )
             data2.append(response)
-            
+
             # Generate response based on the llm's awareness of the conversation, given the history parsed from the output of the previous llm call.
             output2 = llm.create_chat_completion(
                  messages=data2
